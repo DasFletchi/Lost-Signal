@@ -1,5 +1,4 @@
 # Lost-Signal
-Fragments of Us (AT: Lost Signal) 
 
 Ein kurzes, lineares 2D-Sidescroll-Story-Game über Einsamkeit und die Suche nach der Vergangenheit. Inspiriert von *Replaced*.
 
